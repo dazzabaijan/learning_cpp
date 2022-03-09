@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/deck/bwexception.h
+exception
+-
+
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/deck/deck.cpp
+deck.h
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/deck/deck.h
+
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/deck/deck.h
+cstdio
+-
+cstdint
+-
+cstdlib
+-
+ctime
+-
+memory
+-
+bwexception.h
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/deck/bwexception.h
+

@@ -1,0 +1,6 @@
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/build/CMakeFiles/rebuild_cache.dir
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/build/CMakeFiles/edit_cache.dir
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/build/CMakeFiles/chp10.dir
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/build/deck/CMakeFiles/rebuild_cache.dir
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/build/deck/CMakeFiles/edit_cache.dir
+/home/darren/linkedin_cpp/cpp_essential_training/chp10/build/deck/CMakeFiles/deck.dir

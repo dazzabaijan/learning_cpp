@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/chp10.dir/deal_cards.cpp.o  -o chp10  deck/libdeck.a 
